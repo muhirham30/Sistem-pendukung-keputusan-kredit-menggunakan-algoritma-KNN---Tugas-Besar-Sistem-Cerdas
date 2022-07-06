@@ -1,4 +1,4 @@
-##Pendukung Keputusan Kredit menggunakan KNN##
+Pendukung Keputusan Kredit menggunakan KNN
 
 Kelompok 3 :
 
