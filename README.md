@@ -1,4 +1,4 @@
-Pendukung Keputusan Kredit menggunakan KNN
+Tugas Besar Sistem Cerdas - Pendukung Keputusan Kredit menggunakan KNN
 
 Kelompok 3 :
 
@@ -8,4 +8,3 @@ Muh Irham <2101212059>
 
 Anjar Priyatna <2101212055>
 
-Tugas Besar Sistem Cerdas
